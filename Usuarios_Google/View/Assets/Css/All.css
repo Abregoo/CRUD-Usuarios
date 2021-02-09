@@ -1,0 +1,12 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.bg-white-light {
+	background-color: #E1E9EE;
+}
+
+.ocultar {
+	display: none;
+}
